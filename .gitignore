@@ -3,6 +3,14 @@
 
 # Log file
 *.log
+.pytest_cache/
+../__pycache__/
+../data/__pycache__/
+../generator/__pycache__/
+../locators/__pycache__/
+../pages/__pycache__/
+__pycache__/
+
 
 # BlueJ files
 *.ctxt
